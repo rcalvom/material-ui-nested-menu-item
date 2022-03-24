@@ -1,5 +1,7 @@
-import React, {useState, useRef} from 'react'
-import {Menu, MenuItem, Typography} from '@material-ui/core'
+import React, {useState, useRef} from 'react';
+import Menu from '@mui/material/Menu';
+import MenuItem from '@mui/material/MenuItem';
+import Typography from '@mui/material/Typography';
 
 import NestedMenuItem from '..'
 
